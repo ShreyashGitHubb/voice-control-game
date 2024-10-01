@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/voice-control-game/static/css/main.0e74a751.css",
+    "main.js": "/voice-control-game/static/js/main.0188d906.js",
+    "static/js/453.cbbf5f9b.chunk.js": "/voice-control-game/static/js/453.cbbf5f9b.chunk.js",
+    "index.html": "/voice-control-game/index.html",
+    "main.0e74a751.css.map": "/voice-control-game/static/css/main.0e74a751.css.map",
+    "main.0188d906.js.map": "/voice-control-game/static/js/main.0188d906.js.map",
+    "453.cbbf5f9b.chunk.js.map": "/voice-control-game/static/js/453.cbbf5f9b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e74a751.css",
+    "static/js/main.0188d906.js"
+  ]
+}
